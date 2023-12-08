@@ -1,0 +1,1 @@
+C:\Users\maxur\source\repos\MiniTwitterServer_Krolak\MiniTwitterServer_Krolak\x64\Debug\MiniTwitterServer_Krolak.vcxproj.CopyComplete

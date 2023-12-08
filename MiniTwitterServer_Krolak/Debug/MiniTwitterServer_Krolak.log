@@ -1,0 +1,7 @@
+﻿  MiniTwitterServer_Krolak.cpp
+C:\Users\maxur\source\repos\MiniTwitterServer_Krolak\MiniTwitterServer_Krolak\MiniTwitterServer_Krolak.cpp(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'grpcpp\grpcpp.h': No such file or directory
+  twitter.grpc.pb.cc
+C:\Users\maxur\source\repos\MiniTwitterServer_Krolak\MiniTwitterServer_Krolak\twitter.pb.h(10,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'google/protobuf/port_def.inc': No such file or directory
+  twitter.pb.cc
+C:\Users\maxur\source\repos\MiniTwitterServer_Krolak\MiniTwitterServer_Krolak\twitter.pb.h(10,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'google/protobuf/port_def.inc': No such file or directory
+  Generowanie kodu...

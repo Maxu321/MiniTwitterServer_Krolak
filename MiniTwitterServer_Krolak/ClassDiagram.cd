@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="minitwitter::MiniTwitter">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="minitwitter::MiniTwitter::WithRawMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithStreamedUnaryMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="minitwitter::MiniTwitter::CallbackService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="minitwitter::MiniTwitter::WithGenericMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithAsyncMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawCallbackMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithAsyncMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::Service">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithStreamedUnaryMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawCallbackMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithCallbackMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::Stub" Collapsed="true">
+        <NestedTypes>
+          <Class Name="minitwitter::MiniTwitter::Stub::async" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="minitwitter::MiniTwitter::Stub::async_stub_" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::StubInterface" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="minitwitter::MiniTwitter::AsyncService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="minitwitter::MiniTwitter::ExperimentalCallbackService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="minitwitter::MiniTwitter::WithRawMethod_LogIn&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="minitwitter::MiniTwitter::SplitStreamedService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="minitwitter::MiniTwitter::WithCallbackMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawCallbackMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithCallbackMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="minitwitter::MiniTwitter::StreamedService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="minitwitter::MiniTwitter::WithStreamedUnaryMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithAsyncMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithGenericMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="minitwitter::MiniTwitter::StreamedUnaryService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="minitwitter::MiniTwitter::WithCallbackMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithRawCallbackMethod_GetTweets&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithGenericMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithGenericMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithStreamedUnaryMethod_PostTweet&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="minitwitter::MiniTwitter::WithAsyncMethod_LogOut&lt;BaseClass&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>minitwitter.grpc.pb.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>minitwitter.grpc.pb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>
